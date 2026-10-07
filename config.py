@@ -1,0 +1,10 @@
+# Pines GPIO de la Raspberry Pi
+PIN_DHT11 = 4
+PIN_RELE_BOMBA = 17
+PIN_LED = 27
+
+# Valores de referencia iniciales
+HUMEDAD_SUELO_MINIMA = 35
+TEMPERATURA_MAXIMA = 30
+LUZ_MINIMA = 300
+NIVEL_AGUA_MINIMO = 20
